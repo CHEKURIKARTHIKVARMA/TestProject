@@ -27,6 +27,7 @@ public class Demo{
 		    	break;
 		    case 5:
 		    	System.out.println("Exiting the Application");
+		    	break;
 		    default	:
 		    	System.out.println("Select a correct option");
 		    	break;
